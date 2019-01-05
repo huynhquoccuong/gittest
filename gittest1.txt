@@ -1,2 +1,1 @@
 system.out.print("hello world")
-system.out.print("hello world 2")
